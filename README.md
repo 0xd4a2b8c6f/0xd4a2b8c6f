@@ -19,3 +19,4 @@ class NEURAL:
             "expert": ["python","rust"],
             "learning": ["javascript","go"]}
 ```
+![Footer](./ymd730oe6vnc1.gif)
