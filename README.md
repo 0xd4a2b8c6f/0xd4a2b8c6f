@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @0xd4a2b8c6f
 - 👀💗 <h1 align="center">ABOUT ME</h1>
+<p align="center">
+    <img src="sleepy-anime-girl.gif">
+  <br><br>
+</p>
 
 ```python
 class NEURAL:
